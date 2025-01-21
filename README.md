@@ -56,7 +56,7 @@ pip install pandas plotly openpyxl
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/procurement-spend-analysis.git
+git clone https://github.com/Shaanek/spend_analysis.git
 cd procurement-spend-analysis
 ```
 
